@@ -713,6 +713,10 @@ body {
         font-size: 1.75rem;
     }
 
+    .hero {
+        margin-top: 80px;
+    }
+
     .about-heading,
     .contact-heading {
         font-size: 1.75rem;
