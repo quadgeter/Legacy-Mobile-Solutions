@@ -106,7 +106,7 @@ body {
 .hero {
     margin-top: 115px;
     padding: 5rem 0;
-    background: url(./static/hero.png);
+    background: url("./static/hero.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
